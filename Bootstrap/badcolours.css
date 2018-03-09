@@ -1,0 +1,35 @@
+header{ 
+background-color: red; 
+} 
+
+
+
+ main   { 
+background-color: orange; 
+ } 
+                                                                               
+   nav{ 
+background-color: yellow;
+   } 
+                                                                                                                    
+       main{ 
+background-color: greenyellow; 
+       } 
+                                                                                                                                                               
+               article{ 
+background-color: green; 
+               } 
+                               section{ 
+background-color: blue; 
+                               } 
+                                                                                                                                                                                                                                                
+                                                               footer{ 
+background-color: purple; 
+                                                               }
+main article img{ 
+width: 100%; 
+}
+
+#experimentImage{ 
+margin: 6px 0 3px 0;     width: 100%; 
+}
